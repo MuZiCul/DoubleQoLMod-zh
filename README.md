@@ -26,12 +26,12 @@ A mod for [Captain of Industry game](https://www.captain-of-industry.com/).
 - Add a field in the MineTower view where you can prioritize a specific resource for all excavators
 - 在控制塔视图中添加一个字段，您可以在其中为所有挖掘机确定特定资源的优先级
 
-<img src="./images/MineTowerView.png" alt="MineTowerView" width="auto" height="400">    
+    <img src="./images/MineTowerView.png" alt="MineTowerView" width="auto" height="400">    
 
 - Add a btn in the vehicle view where you can cancel all jobs
 - 在车辆视图中添加一个按钮，您可以在其中取消所有作业
 
-<img src="./images/VehicleView.png" alt="VehicleView" width="auto" height="400">
+    <img src="./images/VehicleView.png" alt="VehicleView" width="auto" height="400">
 
 - Change the area size of terrain designations, selection tools and towers (MineTower and ForestryTower)
 - 更改地形名称、选择工具和塔（MineTower 和 ForestryTower）的面积大小
